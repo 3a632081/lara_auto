@@ -2,7 +2,9 @@
     "name": "liang/lara_auto",
     "description": "lara_auto practice",
     "require": {
-        "monolog/monolog": "^1.25"
+        "monolog/monolog": "^1.25",
+        "nesbot/carbon":"^1.21"
+
     },
     "autoload": {
         "psr-4": {
