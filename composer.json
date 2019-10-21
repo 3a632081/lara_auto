@@ -1,7 +1,9 @@
 {
     "name": "liang/lara_auto",
     "description": "lara_auto practice",
-    "require": {},
+    "require": {
+        "monolog/monolog": "^1.25"
+    },
     "autoload": {
         "psr-4": {
             "Demo\\": "./src/Demo"
